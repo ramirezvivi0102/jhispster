@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.vivianar.universidad",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "ejemploJhispster_com",
+    "packageName": "com.vivianar.universidad",
+    "packageFolder": "com/vivianar/universidad",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MWM3NWI2ZjBhNjFmOWRmYmQzMTNiMDk1ZTQ5NzEzYTQ3MTExZDJhYTVjY2ZkNDU1NTA0N2MyMjJlNmVmNzFhZGEzNWZmM2MzZjNjMmU4MTBmOWNmYzljZmIwNzRlMzYzMGMwZDkxNDQ3NGUxZmE2MTgxMzQ5NzAzYzU3NTA5Y2Q=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1616084092385,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
